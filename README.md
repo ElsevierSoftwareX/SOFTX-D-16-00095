@@ -1,0 +1,2 @@
+# SXI
+Sepand X-Ray Inspector (SXI) is a graphic user interface (GUI) of the control and image visualization software. The SXI is a nonintrusive vehicles and luggage inspection software for application of image processing techniques to inspection surveillance and ensuring safety in high security areas such as airport, railway station, custom entrances, border crossing points, sea harbors and access points in military bases. The SXI is designed by using OpenCV and GTK+ libraries. 
