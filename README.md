@@ -34,6 +34,8 @@ b-1)-->User variable --> New --> copy: GSETTINGS_SCHEMA_DIR on variable name and
 and next:
 
 b-2)-->system variable --> Path--> insert semicolon (;) on final and copy next to it: C:\Program Files (x86)\Sepand64bit\share\glib-2.0\schemas -->OK
+
+for Windowas 32 bit: Same up, But you must change just address: C:\Program Files (x86)\Sepand64bit to C:\Program Files\Sepand32bit
 ================================================================
 4. COMPILING C++ CODES (32/64 bit): 
 
