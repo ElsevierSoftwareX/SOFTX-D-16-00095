@@ -29,7 +29,7 @@ b)Right Click on my Computer-->Properties-->Advanced system setting-->Environmen
 
 and next:
 
-b-1)-->User variable--> New --> copy: GSETTINGS_SCHEMA_DIR on variable name and on variable value 
+b-1)-->User variable--> New --> copy: GSETTINGS_SCHEMA_DIR on variable name and on variable value copy: C:\Program Files (x86)\Sepand64bit\share\glib-2.0\schemas 
 
 ================================================================
 4. COMPILING C++ CODES (32/64 bit): 
