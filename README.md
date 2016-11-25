@@ -24,6 +24,12 @@ USERNAME = Sepand && PASSWORD = @#Sepand3412!*@
 
 a)Connect to internet
 
+forWindowas 64 bit:
+b)Right Click on my Computer-->Properties-->Advanced system setting-->Environment Variable-->
+
+and next:
+
+b-1)-->User variable --> New --> copy: GSETTINGS_SCHEMA_DIR on variable name and on variable value copy: C:\Program Files (x86)\Sepand64bit\share\glib-2.0\schemas -->OK
 ================================================================
 4. COMPILING C++ CODES (32/64 bit): 
 
