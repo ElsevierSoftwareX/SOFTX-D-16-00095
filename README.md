@@ -33,13 +33,13 @@ b-1)-->User variable --> New --> copy: GSETTINGS_SCHEMA_DIR on variable name and
 
 and next:
 
-b-2)-->system variable --> Path--> insert semicolon (;) on final and copy next to it: C:\Program Files (x86)\Sepand64bit\share\glib-2.0\schemas -->OK
+b-2)-->system variable --> Path--> insert semicolon (;) on final and copy next to it: C:\Program Files (x86)\Sepand64bit\share\glib-2.0\schemas -->OK 
 
 for Windowas 32 bit: Same up, But you must change just address: C:\Program Files (x86)\Sepand64bit to C:\Program Files\Sepand32bit
 ================================================================
 4. COMPILING C++ CODES (32/64 bit): 
 
-(1) Connect to internet and run "dotNetFx45_Full_setup.exe", "vcredist_x64.exe" and "vcredist_x86.exe". (2) Insert Opencv and GTK+ libraries to your PC. (3)extract Sepand64bit.rar and copy to "C:\Program Files (x86)" and extract Sepand32bit.rar and copy to "C:\Program Files". (4)repeat steps in INSTALLATION section.
+(1) Connect to internet and run "dotNetFx45_Full_setup.exe", "vcredist_x64.exe" and "vcredist_x86.exe". (2) Insert Opencv and GTK+ libraries to your PC. (3) for win64 bit, extract Sepand64bit.rar and copy to "C:\Program Files (x86)" and for win32 bit, extract Sepand32bit.rar and copy to "C:\Program Files". (4)repeat steps in INSTALLATION section.
 
 ================================================================
 5. CONTACTING US
