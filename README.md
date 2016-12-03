@@ -41,7 +41,7 @@ for Windowas 32 bit: Same up, But you must change just address: C:\Program Files
 ================================================================
 4. COMPILING C++ CODES (32/64 bit): 
 
-(1) Connect to internet and run "dotNetFx45_Full_setup.exe", "vcredist_x64.exe" and "vcredist_x86.exe". (2) Insert Opencv and GTK+ libraries to your PC. (3) for win64 bit, extract Sepand64bit.rar and copy to "C:\Program Files (x86)" and for win32 bit, extract Sepand32bit.rar and copy to "C:\Program Files". (4)repeat steps in INSTALLATION section.
+(1) Connect to internet and run "dotNetFx45_Full_setup.exe", "vcredist_x64.exe" and "vcredist_x86.exe". (2) Insert Opencv and GTK+ libraries to your PC by using User Manual. (3) extract Sepand64bit.rar and copy three files (imagedata, logo and share) to "C:\Program Files (x86)" separately and also Sepand32bit.rar and copy three files (imagedata, logo and share) to "C:\Program Files" separately . (4)repeat steps in INSTALLATION section.
 
 ================================================================
 5. CONTACTING US
